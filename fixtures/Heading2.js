@@ -1,0 +1,1 @@
+import { Heading2} from 'newskit'

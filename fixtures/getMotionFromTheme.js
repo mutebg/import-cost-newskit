@@ -1,0 +1,1 @@
+import { getMotionFromTheme} from 'newskit'

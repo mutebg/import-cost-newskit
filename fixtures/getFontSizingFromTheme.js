@@ -1,0 +1,1 @@
+import { getFontSizingFromTheme} from 'newskit'

@@ -1,0 +1,1 @@
+import { getSSRId} from 'newskit'

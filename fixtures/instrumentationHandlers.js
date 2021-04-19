@@ -1,0 +1,1 @@
+import { instrumentationHandlers} from 'newskit'

@@ -1,0 +1,1 @@
+import { ConsentSettingsLink} from 'newskit'

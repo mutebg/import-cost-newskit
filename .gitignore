@@ -1,0 +1,13 @@
+node_modules
+.DS_STORE
+/.eslintcache
+build
+*.log
+dist
+.vscode
+.idea
+.cache
+*.todo
+*.history
+*.tgz
+*.DS_Store

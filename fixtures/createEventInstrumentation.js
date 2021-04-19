@@ -1,0 +1,1 @@
+import { createEventInstrumentation} from 'newskit'

@@ -1,0 +1,1 @@
+import { isButtonLink} from 'newskit'

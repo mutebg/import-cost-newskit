@@ -1,0 +1,1 @@
+import { Consent} from 'newskit'

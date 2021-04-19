@@ -1,0 +1,1 @@
+import { getSpacingInlineHorizontal} from 'newskit'
