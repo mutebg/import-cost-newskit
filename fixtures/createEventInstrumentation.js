@@ -1,1 +1,1 @@
-import { createEventInstrumentation} from 'newskit'
+import { createEventInstrumentation } from 'newskit'

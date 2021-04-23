@@ -19,11 +19,6 @@
   "Form",
   "Grid",
   "Heading1",
-  "Heading2",
-  "Heading3",
-  "Heading4",
-  "Heading5",
-  "Heading6",
   "Headline",
   "Hidden",
   "IconButton",
@@ -67,5 +62,7 @@
   "compileTheme",
   "composeInstrumentationMiddleware",
   "createEventInstrumentation",
-  "createTheme"
+  "createTheme",
+  "styled",
+  "css"
 ]

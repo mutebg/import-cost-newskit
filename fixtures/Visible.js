@@ -1,1 +1,1 @@
-import { Visible} from 'newskit'
+import { Visible } from 'newskit'

@@ -1,1 +1,0 @@
-import { useMediaQueryObject } from "newskit";

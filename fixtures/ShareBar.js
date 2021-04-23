@@ -1,1 +1,1 @@
-import { ShareBar} from 'newskit'
+import { ShareBar } from 'newskit'

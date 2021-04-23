@@ -1,1 +1,0 @@
-import { withTheme} from 'newskit'

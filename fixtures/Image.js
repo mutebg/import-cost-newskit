@@ -1,1 +1,1 @@
-import { Image} from 'newskit'
+import { Image } from 'newskit'

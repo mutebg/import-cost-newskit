@@ -1,1 +1,1 @@
-import { Divider} from 'newskit'
+import { Divider } from 'newskit'

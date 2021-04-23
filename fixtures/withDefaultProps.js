@@ -1,1 +1,0 @@
-import { withDefaultProps} from 'newskit'

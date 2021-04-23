@@ -1,1 +1,1 @@
-import { CardInset} from 'newskit'
+import { CardInset } from 'newskit'

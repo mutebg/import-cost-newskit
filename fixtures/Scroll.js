@@ -1,1 +1,1 @@
-import { Scroll} from 'newskit'
+import { Scroll } from 'newskit'

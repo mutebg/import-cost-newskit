@@ -53,7 +53,7 @@ function getPackages(fileName) {
 async function createFixtures() {
     components.forEach((componentName) => {
         const fixturePath = `./fixtures/${componentName}.js`;
-        const fixtureContent = `import { ${componentName}} from 'newskit'`
+        const fixtureContent = `import { ${componentName} } from 'newskit'`
         fs.writeFileSync(fixturePath, fixtureContent, function (err) {
             if (err) {
                 return console.log(err);
@@ -64,25 +64,24 @@ async function createFixtures() {
 
 async function test(fileName) {
   const packages = await getPackages(fileName);
-  const [ package ] = packages;
-  console.log('Component:', fileName, '   Size:', fileSize(package.size), '     gzip:', fileSize(package.gzip));
+  const [package] = packages;
+  return { 'component': fileName, size: fileSize(package.size), gzip: fileSize(package.gzip) };
 }
 
 
 const testComponents = async () => {
   await createFixtures();  
+  const componentsData = [];
   for (let index = 0; index < components.length; index++) {
     const componentName = components[index];
-    await test(componentName + '.js');
+    const componentData = await test(componentName + '.js');
+    componentsData.push(componentData);
     await cleanup();
   }
+  console.table(componentsData);
 }
 
-const testModiles = async () => {
-  await test('exports.js');
-}
 (async function () {
   testComponents();
-  // testModiles();
 }());
 

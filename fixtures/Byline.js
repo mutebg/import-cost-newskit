@@ -1,1 +1,1 @@
-import { Byline} from 'newskit'
+import { Byline } from 'newskit'

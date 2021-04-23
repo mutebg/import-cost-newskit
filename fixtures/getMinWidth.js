@@ -1,1 +1,0 @@
-import { getMinWidth} from 'newskit'

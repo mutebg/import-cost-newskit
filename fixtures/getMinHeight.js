@@ -1,1 +1,0 @@
-import { getMinHeight} from 'newskit'

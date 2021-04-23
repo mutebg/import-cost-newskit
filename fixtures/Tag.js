@@ -1,1 +1,1 @@
-import { Tag} from 'newskit'
+import { Tag } from 'newskit'

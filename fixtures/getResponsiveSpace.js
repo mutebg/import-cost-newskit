@@ -1,1 +1,0 @@
-import { getResponsiveSpace} from 'newskit'

@@ -1,1 +1,1 @@
-import { Tabs} from 'newskit'
+import { Tabs } from 'newskit'

@@ -1,1 +1,1 @@
-import { Button} from 'newskit'
+import { Button } from 'newskit'

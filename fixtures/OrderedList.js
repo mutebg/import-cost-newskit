@@ -1,1 +1,1 @@
-import { OrderedList} from 'newskit'
+import { OrderedList } from 'newskit'

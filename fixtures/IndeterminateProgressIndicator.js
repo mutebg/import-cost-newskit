@@ -1,1 +1,1 @@
-import { IndeterminateProgressIndicator} from 'newskit'
+import { IndeterminateProgressIndicator } from 'newskit'

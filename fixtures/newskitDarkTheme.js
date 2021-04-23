@@ -1,1 +1,0 @@
-import { newskitDarkTheme} from 'newskit'

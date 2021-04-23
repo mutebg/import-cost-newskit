@@ -1,1 +1,1 @@
-import { P} from 'newskit'
+import { P } from 'newskit'

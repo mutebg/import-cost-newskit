@@ -1,1 +1,1 @@
-import { Tealium} from 'newskit'
+import { Tealium } from 'newskit'

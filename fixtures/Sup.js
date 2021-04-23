@@ -1,1 +1,1 @@
-import { Sup} from 'newskit'
+import { Sup } from 'newskit'

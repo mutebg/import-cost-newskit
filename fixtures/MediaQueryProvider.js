@@ -1,1 +1,1 @@
-import { MediaQueryProvider} from 'newskit'
+import { MediaQueryProvider } from 'newskit'

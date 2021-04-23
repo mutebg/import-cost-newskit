@@ -1,1 +1,0 @@
-import { getSpacingStackVertical} from 'newskit'

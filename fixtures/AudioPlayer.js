@@ -1,1 +1,1 @@
-import { AudioPlayer} from 'newskit'
+import { AudioPlayer } from 'newskit'

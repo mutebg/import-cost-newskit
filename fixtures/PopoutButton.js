@@ -1,1 +1,1 @@
-import { PopoutButton} from 'newskit'
+import { PopoutButton } from 'newskit'

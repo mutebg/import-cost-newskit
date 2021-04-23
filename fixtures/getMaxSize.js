@@ -1,1 +1,0 @@
-import { getMaxSize} from 'newskit'

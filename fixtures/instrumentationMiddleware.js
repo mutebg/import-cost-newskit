@@ -1,1 +1,0 @@
-import { instrumentationMiddleware} from 'newskit'

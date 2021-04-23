@@ -1,1 +1,1 @@
-import { Standfirst} from 'newskit'
+import { Standfirst } from 'newskit'

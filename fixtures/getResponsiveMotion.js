@@ -1,1 +1,0 @@
-import { getResponsiveMotion} from 'newskit'

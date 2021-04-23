@@ -1,1 +1,0 @@
-import { getResponsiveX} from 'newskit'

@@ -1,1 +1,0 @@
-import { toNewsKitIcon} from 'newskit'

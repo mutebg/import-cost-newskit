@@ -1,1 +1,1 @@
-import { Hidden} from 'newskit'
+import { Hidden } from 'newskit'

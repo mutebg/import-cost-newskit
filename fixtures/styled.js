@@ -1,1 +1,1 @@
-import { styled} from 'newskit'
+import { styled } from 'newskit'

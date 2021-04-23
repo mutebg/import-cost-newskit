@@ -1,1 +1,1 @@
-import { composeInstrumentationMiddleware} from 'newskit'
+import { composeInstrumentationMiddleware } from 'newskit'

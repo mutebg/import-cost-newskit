@@ -1,1 +1,1 @@
-import { ParagraphDropCap} from 'newskit'
+import { ParagraphDropCap } from 'newskit'

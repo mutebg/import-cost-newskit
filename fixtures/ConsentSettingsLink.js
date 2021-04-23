@@ -1,1 +1,1 @@
-import { ConsentSettingsLink} from 'newskit'
+import { ConsentSettingsLink } from 'newskit'

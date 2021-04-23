@@ -1,1 +1,1 @@
-import { Superscript} from 'newskit'
+import { Superscript } from 'newskit'

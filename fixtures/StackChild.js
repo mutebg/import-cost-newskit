@@ -1,1 +1,1 @@
-import { StackChild} from 'newskit'
+import { StackChild } from 'newskit'

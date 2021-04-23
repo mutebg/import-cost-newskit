@@ -1,1 +1,0 @@
-import { getMediaQueries} from 'newskit'

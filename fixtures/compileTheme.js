@@ -1,1 +1,1 @@
-import { compileTheme} from 'newskit'
+import { compileTheme } from 'newskit'

@@ -1,1 +1,1 @@
-import { Link} from 'newskit'
+import { Link } from 'newskit'

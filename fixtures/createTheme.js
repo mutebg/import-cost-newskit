@@ -1,1 +1,1 @@
-import { createTheme} from 'newskit'
+import { createTheme } from 'newskit'

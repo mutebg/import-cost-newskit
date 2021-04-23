@@ -1,1 +1,1 @@
-import { css} from 'newskit'
+import { css } from 'newskit'

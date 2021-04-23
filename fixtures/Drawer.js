@@ -1,1 +1,1 @@
-import { Drawer} from 'newskit'
+import { Drawer } from 'newskit'

@@ -1,1 +1,1 @@
-import { Form} from 'newskit'
+import { Form } from 'newskit'

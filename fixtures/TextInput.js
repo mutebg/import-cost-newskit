@@ -1,1 +1,1 @@
-import { TextInput} from 'newskit'
+import { TextInput } from 'newskit'

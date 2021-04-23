@@ -1,1 +1,1 @@
-import { Stack} from 'newskit'
+import { Stack } from 'newskit'

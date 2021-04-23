@@ -1,1 +1,0 @@
-import { newskitLightTheme} from 'newskit'

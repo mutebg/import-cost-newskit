@@ -1,1 +1,0 @@
-import { getResponsiveSize} from 'newskit'

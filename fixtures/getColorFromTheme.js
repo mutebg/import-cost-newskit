@@ -1,1 +1,0 @@
-import { getColorFromTheme} from 'newskit'

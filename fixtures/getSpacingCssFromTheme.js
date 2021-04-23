@@ -1,1 +1,0 @@
-import { getSpacingCssFromTheme} from 'newskit'

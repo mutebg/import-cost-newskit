@@ -1,1 +1,0 @@
-import { getStylePreset} from 'newskit'

@@ -1,1 +1,1 @@
-import { ParagraphText} from 'newskit'
+import { ParagraphText } from 'newskit'

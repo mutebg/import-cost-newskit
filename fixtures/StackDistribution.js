@@ -1,1 +1,1 @@
-import { StackDistribution} from 'newskit'
+import { StackDistribution } from 'newskit'

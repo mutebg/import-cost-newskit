@@ -1,1 +1,0 @@
-import { getBorderFromTheme} from 'newskit'

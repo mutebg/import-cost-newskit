@@ -1,1 +1,1 @@
-import { ThemeProvider} from 'newskit'
+import { ThemeProvider } from 'newskit'

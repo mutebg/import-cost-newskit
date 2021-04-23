@@ -1,1 +1,0 @@
-import { getSizingFromTheme} from 'newskit'

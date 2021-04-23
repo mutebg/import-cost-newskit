@@ -1,1 +1,0 @@
-import { getSize} from 'newskit'

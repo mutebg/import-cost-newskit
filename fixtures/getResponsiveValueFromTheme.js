@@ -1,1 +1,0 @@
-import { getResponsiveValueFromTheme} from 'newskit'

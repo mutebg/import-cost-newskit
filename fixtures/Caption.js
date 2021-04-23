@@ -1,1 +1,1 @@
-import { Caption} from 'newskit'
+import { Caption } from 'newskit'

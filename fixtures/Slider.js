@@ -1,1 +1,1 @@
-import { Slider} from 'newskit'
+import { Slider } from 'newskit'

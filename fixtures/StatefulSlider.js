@@ -1,1 +1,1 @@
-import { StatefulSlider} from 'newskit'
+import { StatefulSlider } from 'newskit'

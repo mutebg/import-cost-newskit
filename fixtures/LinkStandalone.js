@@ -1,1 +1,1 @@
-import { LinkStandalone} from 'newskit'
+import { LinkStandalone } from 'newskit'

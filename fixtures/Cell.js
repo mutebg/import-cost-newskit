@@ -1,1 +1,1 @@
-import { Cell} from 'newskit'
+import { Cell } from 'newskit'

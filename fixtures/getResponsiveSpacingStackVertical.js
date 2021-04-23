@@ -1,1 +1,0 @@
-import { getResponsiveSpacingStackVertical} from 'newskit'

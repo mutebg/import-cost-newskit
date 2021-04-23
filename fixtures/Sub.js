@@ -1,1 +1,1 @@
-import { Sub} from 'newskit'
+import { Sub } from 'newskit'

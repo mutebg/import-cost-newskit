@@ -1,1 +1,0 @@
-import { getFontsFromTheme} from 'newskit'

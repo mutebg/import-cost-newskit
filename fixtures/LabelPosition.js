@@ -1,1 +1,1 @@
-import { LabelPosition} from 'newskit'
+import { LabelPosition } from 'newskit'

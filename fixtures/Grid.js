@@ -1,1 +1,1 @@
-import { Grid} from 'newskit'
+import { Grid } from 'newskit'

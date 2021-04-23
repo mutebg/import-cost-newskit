@@ -1,1 +1,1 @@
-import { Consent} from 'newskit'
+import { Consent } from 'newskit'

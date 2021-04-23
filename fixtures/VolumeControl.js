@@ -1,1 +1,1 @@
-import { VolumeControl} from 'newskit'
+import { VolumeControl } from 'newskit'

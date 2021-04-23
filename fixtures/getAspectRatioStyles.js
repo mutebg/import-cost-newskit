@@ -1,1 +1,0 @@
-import { getAspectRatioStyles} from 'newskit'

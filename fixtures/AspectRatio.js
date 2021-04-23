@@ -1,1 +1,1 @@
-import { AspectRatio} from 'newskit'
+import { AspectRatio } from 'newskit'

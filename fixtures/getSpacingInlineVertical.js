@@ -1,1 +1,0 @@
-import { getSpacingInlineVertical} from 'newskit'

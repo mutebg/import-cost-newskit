@@ -1,1 +1,0 @@
-import { getResponsiveBorder} from 'newskit'

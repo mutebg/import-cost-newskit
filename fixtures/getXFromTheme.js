@@ -1,1 +1,0 @@
-import { getXFromTheme} from 'newskit'

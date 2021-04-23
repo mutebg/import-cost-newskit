@@ -1,1 +1,0 @@
-import { Heading6} from 'newskit'

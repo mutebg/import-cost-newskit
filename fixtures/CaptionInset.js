@@ -1,1 +1,1 @@
-import { CaptionInset} from 'newskit'
+import { CaptionInset } from 'newskit'

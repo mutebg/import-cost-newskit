@@ -1,1 +1,1 @@
-import { Flag} from 'newskit'
+import { Flag } from 'newskit'

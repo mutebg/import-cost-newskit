@@ -1,1 +1,1 @@
-import { TextBlock} from 'newskit'
+import { TextBlock } from 'newskit'

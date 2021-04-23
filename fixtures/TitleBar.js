@@ -1,1 +1,1 @@
-import { TitleBar} from 'newskit'
+import { TitleBar } from 'newskit'

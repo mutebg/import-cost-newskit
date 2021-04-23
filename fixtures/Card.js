@@ -1,1 +1,1 @@
-import { Card} from 'newskit'
+import { Card } from 'newskit'

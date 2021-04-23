@@ -1,1 +1,0 @@
-import { getShadowCssFromTheme} from 'newskit'

@@ -1,1 +1,0 @@
-import { getTypographyPreset} from 'newskit'

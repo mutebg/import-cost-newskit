@@ -1,1 +1,1 @@
-import { Paragraph} from 'newskit'
+import { Paragraph } from 'newskit'

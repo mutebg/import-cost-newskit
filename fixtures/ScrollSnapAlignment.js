@@ -1,1 +1,1 @@
-import { ScrollSnapAlignment} from 'newskit'
+import { ScrollSnapAlignment } from 'newskit'

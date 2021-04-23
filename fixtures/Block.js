@@ -1,1 +1,1 @@
-import { Block} from 'newskit'
+import { Block } from 'newskit'

@@ -1,1 +1,1 @@
-import { Heading1} from 'newskit'
+import { Heading1 } from 'newskit'

@@ -1,1 +1,1 @@
-import { ScreenReaderOnly} from 'newskit'
+import { ScreenReaderOnly } from 'newskit'

@@ -1,1 +1,1 @@
-import { Headline} from 'newskit'
+import { Headline } from 'newskit'

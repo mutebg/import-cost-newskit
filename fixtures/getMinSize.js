@@ -1,1 +1,0 @@
-import { getMinSize} from 'newskit'
